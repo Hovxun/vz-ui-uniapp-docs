@@ -1,0 +1,1 @@
+const t=t=>"number"==typeof t,e=t=>"boolean"==typeof t,o=t=>void 0===t,s=t=>!!t&&(t=>"string"==typeof t)(t)&&!Number.isNaN(Number(t)),a=t=>null==t||/^\s*$/.test(t),b=t=>"[object Object]"===Object.prototype.toString.call(t);export{o as a,e as b,b as c,t as d,s as e,a as i};

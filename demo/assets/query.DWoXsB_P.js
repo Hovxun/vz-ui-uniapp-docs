@@ -1,0 +1,1 @@
+import{U as e}from"./index-Dq_ZI4_S.js";function n(n){return new Promise(((r,t)=>{const{selector:s,scope:l,all:o}=n;(l?e().in(l):e())[o?"selectAll":"select"](s).boundingClientRect().exec((([e])=>{o&&Array.isArray(e)&&e.length||!o&&e?r(e):t()}))}))}export{n as g};

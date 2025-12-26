@@ -1,1 +1,0 @@
-import{c as e,o as r,f as s}from"./index-BKXRznCe.js";import{_ as o}from"./_plugin-vue_export-helper.BCo6x5W8.js";const a=o({},[["render",function(o,a){const n=s;return r(),e(n,{class:"app-page"})}]]);export{a as default};

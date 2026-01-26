@@ -1,1 +1,0 @@
-import{c as e,o,f as r}from"./index-DP9ybp0-.js";import{_ as s}from"./_plugin-vue_export-helper.BCo6x5W8.js";const a=s({},[["render",function(s,a){const p=r;return o(),e(p,{class:"app-page"})}]]);export{a as default};

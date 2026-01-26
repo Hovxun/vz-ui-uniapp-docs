@@ -1,0 +1,1 @@
+import{c as e,o as r,f as s}from"./index-DWDapIEl.js";import{_ as o}from"./_plugin-vue_export-helper.BCo6x5W8.js";const p=o({},[["render",function(o,p){const a=s;return r(),e(a,{class:"app-page"})}]]);export{p as default};
